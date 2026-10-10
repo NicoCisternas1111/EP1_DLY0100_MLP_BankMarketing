@@ -11,7 +11,6 @@ Evaluación Parcial 1 de **DLY0100 Deep Learning** (Duoc UC). Red neuronal multi
 | `EP1_DLY0100_MLP_BankMarketing.ipynb` | Notebook completo (informe): EDA, preprocesamiento, experimentos controlados, funciones, optimización, regularización, búsqueda de hiperparámetros, evaluación y conclusiones |
 | `bank_marketing.csv` | Dataset entregado por el docente (Bank Marketing, UCI, 45.211 filas) |
 | `requirements.txt` | Dependencias para ejecutar en local |
-| `EP1_DLY0100_Presentacion.pptx` | Presentación de la defensa |
 
 ## Cómo ejecutar
 
